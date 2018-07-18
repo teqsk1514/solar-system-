@@ -1,5 +1,5 @@
 # solar-system-
-solar system simulation
+solar system simulation in c.
 
 This is the computer graphics project uses the features of CG 
 
